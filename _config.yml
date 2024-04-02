@@ -8,7 +8,7 @@ menu:
 banner: "/images/soraongrass.jpg" # themes/reimu/source/images/banner.jpg
 # You can also write it in the form of the following url
 # banner: "https://example.com"
-favicon: "/images/favicon.ico" # themes/reimu/source/images/favicon.ico
+favicon: "/images/sora_icon.ico" # themes/reimu/source/images/favicon.ico
 # You can also write it in the form of the following url
 # favicon: "https://example.com"
 avatar: "sora.jpg" # source/_data/avatar/avatar.jpg
