@@ -5,13 +5,13 @@ menu:
   about: /about
   friend: /friend
 
-banner: "/images/banner.jpg" # themes/reimu/source/images/banner.jpg
+banner: "/images/soraongrass.jpg" # themes/reimu/source/images/banner.jpg
 # You can also write it in the form of the following url
 # banner: "https://example.com"
 favicon: "/images/favicon.ico" # themes/reimu/source/images/favicon.ico
 # You can also write it in the form of the following url
 # favicon: "https://example.com"
-avatar: "avatar.jpg" # source/_data/avatar/avatar.jpg
+avatar: "sora.jpg" # source/_data/avatar/avatar.jpg
 
 # Content
 excerpt_link: Read More
@@ -189,18 +189,18 @@ generator_search:
 
 preloader:
   enable: true
-  text: 少女祈祷中...
-  # text: Loading...
+  # text: 少女祈祷中...
+  text: Loading...
 
 animation:
   enable: true
 
 dark_mode:
-  enable: false
+  enable: true
 
 # see https://github.com/D-Sketon/mouse-firework
 firework:
-  enable: true
+  enable: false
   options:
     excludeElements: ["a"]
     particles:
@@ -236,7 +236,7 @@ service_worker:
 live2d:
   enable: false
 
-reimu_cursor: true
+reimu_cursor: false
 
 # Dependent cdn links
 vendor:
