@@ -99,11 +99,11 @@ footer:
 # need https://github.com/CHENXCHEN/hexo-renderer-markdown-it-plus
 # use katex
 math:
-  enable: false
+  enable: true
 
 # need https://github.com/webappdevelp/hexo-filter-mermaid-diagrams
 mermaid: ## mermaid url https://github.com/knsv/mermaid
-  enable: false # default true
+  enable: true # default true
 
 # valine comment system. https://valine.js.org
 # version 1.5.1
