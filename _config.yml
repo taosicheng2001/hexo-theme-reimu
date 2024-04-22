@@ -5,7 +5,7 @@ menu:
   about: /about
   friend: /friend
 
-banner: "/images/soraongrass.jpg" # themes/reimu/source/images/banner.jpg
+banner: "/images/Night.jpg" # themes/reimu/source/images/banner.jpg
 # You can also write it in the form of the following url
 # banner: "https://example.com"
 favicon: "/images/sora_icon.ico" # themes/reimu/source/images/favicon.ico
